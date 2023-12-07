@@ -1,8 +1,8 @@
-from loops.apikey import ApiKey
-from loops.custom_fields import CustomFields
-from loops.transactional_emails import TransactionalEmails
-from loops.events import Events
-from loops.contacts import Contacts
+from loopsapi.apikey import ApiKey
+from loopsapi.custom_fields import CustomFields
+from loopsapi.transactional_emails import TransactionalEmails
+from loopsapi.events import Events
+from loopsapi.contacts import Contacts
 
 
 class Loops:

@@ -1,4 +1,4 @@
-from loops.endpoint import Endpoint
+from loopsapi.endpoint import Endpoint
 
 
 class CustomFields(Endpoint):
