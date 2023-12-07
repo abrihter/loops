@@ -1,6 +1,6 @@
 from setuptools import setup
 
-from loops.__version__ import __version__
+from loopsapi.__version__ import __version__
 
 with open('README.md', 'r',) as f:
     readme = f.read()
