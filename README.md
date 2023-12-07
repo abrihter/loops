@@ -1,19 +1,19 @@
-# loops
+# loopsapi
 Python wrapper for Loops.so API
 
 #### Install
 ```
-pip3 install loops
+pip3 install loopsapi
 ```
 
 ### Example
 ```Python
 import os
-import loops
+import loopsapi
 
 API_KEY = os.environ['LOOPS_API_KEY']
 
-api = loops.Loops(api_key=API_KEY)
+api = loopsapi.Loops(api_key=API_KEY)
 test = api.apikey.test()
 print(print)
 ```
