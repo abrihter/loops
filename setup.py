@@ -1,13 +1,12 @@
 from setuptools import setup
 
-from loopsapi.__version__ import __version__
 
 with open('README.md', 'r',) as f:
     readme = f.read()
 
 setup(
     name='loopsapi',
-    version=__version__,
+    version='0.2',
     install_requires=['requests'],
     packages=['loopsapi'],
     url='https://github.com/abrihter/loopsapi',
