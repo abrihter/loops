@@ -17,7 +17,7 @@ setup(
     author_email='',
     description='Python wrapper for the Loops.so API',
     keywords=['LOOPS', 'LOOPS.SO', 'API', 'WRAPPER'],
-    download_url='https://github.com/abrihter/loopsapi/archive/refs/tags/v0.1.tar.gz',  # noqa E501
+    download_url='https://github.com/abrihter/loopsapi/archive/refs/tags/v0.2.tar.gz',  # noqa E501
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
